@@ -127,10 +127,6 @@ Esta es una versión inicial desarrollada como práctica de despliegue en Google
 
 ---
 
-## Licencia
-
-Este proyecto puede publicarse bajo MIT, Apache 2.0, GPL o la licencia elegida.
-
 ## Desarrollado
 
 jhovanny.martinez@landsoft.mx
