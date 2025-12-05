@@ -1,0 +1,5 @@
+com\ejemplo\breakingbad\BreakingBadApplication.class
+com\ejemplo\breakingbad\controlador\FraseControlador.class
+com\ejemplo\breakingbad\servicio\FraseServicio.class
+com\ejemplo\breakingbad\modelo\Frase.class
+com\ejemplo\breakingbad\repositorio\FraseRepositorio.class
